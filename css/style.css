@@ -9,10 +9,12 @@
     width: 3.625rem;
     color: #E76F51;
 }
+.btn-color{
+    background-color: #E76F51;
+}
 
-.span-color, .fa-star, .accesprie-icon {
+.span-color, .fa-star, .accesprie-icon  {
     color: #E76F51;
-    ;
 }
 .clint-name-color{
     color: #23A6F0;
